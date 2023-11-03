@@ -1,4 +1,4 @@
-# Adv-dm-assignment: Feature Engineering Unstructured Data (Audio & Wave Files)
+# Feature Engineering Unstructured Data 
 
 
 The purpose of the assignment is to derive feature engineering spectrograms of wave files:
